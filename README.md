@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
     - mail: daniel.brilla@outlook.com
-    - discord server (still in biuld stage🔧): https://discord.gg/jZmQtzGr
     - soundcloud: https://soundcloud.com/daniel-b-379737525
 
 <!---
